@@ -7,3 +7,5 @@ Please build using the following command\
 Once builds succeed, start the application with\
 `mvn spring-boot:run`
 
+Please access the swagger for testing and display of available apis\
+`http://localhost:8080/swagger-ui/index.html`
